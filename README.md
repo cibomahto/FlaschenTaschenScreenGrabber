@@ -5,4 +5,4 @@ Requires the following libraries:
 
 * [Hypermedia.net UDP](http://ubaa.net/shared/processing/udp/)
 * [oscp5](http://www.sojamo.de/libraries/oscP5/)
-* [ScreenGrabber](http://github.com/blinkinlabs/ScreenGrabber)
+* [ScreenCapturer](http://github.com/blinkinlabs/ScreenCapturer)
