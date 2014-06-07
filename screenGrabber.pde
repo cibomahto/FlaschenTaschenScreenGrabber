@@ -6,7 +6,7 @@ class ScreenGrabber extends Routine {
   
   void setup(PApplet parent) {
     
-    capturer = new ScreenCapturer(width, height, 100,200,30);
+    capturer = new ScreenCapturer(width, height,0,20,30);
   }
   
   void draw() {
