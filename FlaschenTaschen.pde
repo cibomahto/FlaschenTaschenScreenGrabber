@@ -95,7 +95,7 @@ public class FlaschenTaschen {
 
     String header =
         "P6\n"    // Magic number 
-      + "45 35\n" // width height (decimal, number in ASCII)
+      + w +" "+ h + "\n" // width height (decimal, number in ASCII)
       + "255\n"   // values per color (fixed)
       ;
       
